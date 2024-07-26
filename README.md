@@ -40,6 +40,7 @@ cachemean <- function(x, ...) {
     x$setmean(m)
     m
 }
+
 Tarea: Almacenando en Caché la Inversa de una Matriz
 La inversión de matrices suele ser un cálculo costoso y puede haber algún beneficio en almacenar en caché la inversa de una matriz en lugar de calcularla repetidamente. Mi tarea es escribir un par de funciones que almacenen en caché la inversa de una matriz.
 
