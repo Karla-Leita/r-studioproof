@@ -1,4 +1,5 @@
 Introducción
+
 En esta segunda tarea de programación, se me pedirá que escriba una función en R que sea capaz de almacenar en caché cálculos que pueden consumir mucho tiempo. Por ejemplo, calcular la media de un vector numérico suele ser una operación rápida. Sin embargo, para un vector muy largo, puede llevar mucho tiempo calcular la media, especialmente si se tiene que calcular repetidamente (por ejemplo, en un bucle). Si el contenido de un vector no está cambiando, puede tener sentido almacenar en caché el valor de la media para que cuando lo necesitemos de nuevo, se pueda buscar en la caché en lugar de recalcularlo. En esta tarea de programación aprovecharé las reglas de alcance del lenguaje R y cómo pueden manipularse para preservar el estado dentro de un objeto R.
 
 Ejemplo: Almacenando en Caché la Media de un Vector
