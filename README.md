@@ -51,13 +51,7 @@ El cálculo de la inversa de una matriz cuadrada se puede hacer con la función 
 
 Para esta tarea, asumiré que la matriz suministrada siempre es invertible.
 
-Pasos para Completar la Tarea:
-Hacer fork del repositorio de GitHub que contiene los archivos R stub en este enlace para crear una copia bajo mi propia cuenta.
-Clonar mi repositorio de GitHub bifurcado en mi computadora para que pueda editar los archivos localmente en mi propia máquina.
-Editar el archivo R contenido en el repositorio git y colocar mi solución en ese archivo (por favor, no renombre el archivo).
-Confirmar mi archivo R completado en MI repositorio git y empujar mi rama git al repositorio de GitHub bajo mi cuenta.
-Enviar a Coursera la URL de mi repositorio de GitHub que contiene el código R completado para la tarea.
-Código para la Tarea
+
 Aquí está el código para las funciones makeCacheMatrix y cacheSolve:
 
 # makeCacheMatrix function
